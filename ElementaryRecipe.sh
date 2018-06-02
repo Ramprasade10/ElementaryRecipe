@@ -32,3 +32,4 @@ sudo apt-get install network-manager-openvpn-gnome;
 sudo add-apt-repository ppa:webupd8team/indicator-kdeconnect;
 sudo apt update;
 sudo apt install kdeconnect indicator-kdeconnect;
+#added
